@@ -1,0 +1,3 @@
+models\User.class
+pages\BasePage.class
+pages\LoginPage.class
